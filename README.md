@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"># Olá, eu sou o João Victor Marques! 👋<br><br>Sou estudante de Análise e Desenvolvimento de Sistemas e entusiasta de tecnologia, focado em desenvolvimento de software e qualidade de código. Atualmente, estou a aprofundar os meus conhecimentos em Python, QA (Quality Assurance) e Cloud Computing.<br><br>🚀 Sobre Mim<br>- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS).<br>- 💻 A realizar curso de Desenvolvimento de Software na FPFTECH.<br>- ☁️ A estudar para a certificação CCNA e a explorar o mundo da AWS.<br>- 🎯 O meu foco atual é em automação de testes e garantia de qualidade de software.<br><br>🛠️ Tecnologias e Ferramentas</p>
+<p align="left"> Olá, eu sou o João Victor Marques! 👋<br><br>Sou estudante de Análise e Desenvolvimento de Sistemas e entusiasta de tecnologia, focado em desenvolvimento de software e qualidade de código. Atualmente, estou a aprofundar os meus conhecimentos em Python, QA (Quality Assurance) e Cloud Computing.<br><br>🚀 Sobre Mim<br>- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS).<br>- 💻 A realizar curso de Desenvolvimento de Software na FPFTECH.<br>- ☁️ A estudar para a certificação CCNA e a explorar o mundo da AWS.<br>- 🎯 O meu foco atual é em automação de testes e garantia de qualidade de software.<br><br>🛠️ Tecnologias e Ferramentas</p>
 
 ###
 
@@ -35,14 +35,14 @@
 ###
 
 <div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@viituux/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@viituux/0" alt="Medium post 1"  />
   </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@viituux/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@viituux/1" alt="Medium post 2"  />
   </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@viituux/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@viituux/2" alt="Medium post 3"  />
   </a>
 </div>
 
